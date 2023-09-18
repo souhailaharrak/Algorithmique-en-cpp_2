@@ -27,5 +27,5 @@ void  PrintLetterPattern(int Number) {
 
 int main() {
      
-    cal(ReadNumberPositive());
+    PrintLetterPattern(ReadNumberPositive());
 }
